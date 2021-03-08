@@ -1,0 +1,42 @@
+{
+  "PAZAR_YERI": {
+    "N11": {
+      "ürün_tag": "h3",
+      "ürün_adi": "productName",
+      "fiyat": "newPrice",
+      "fiyat_tag": "a",
+      "sayfa": "&pg=",
+      "aralik_min": "&minp=",
+      "aralik_max": "&maxp=",
+      "link": "https://www.n11.com/arama?q="
+    },
+    "Trendyol": {
+      "ürün_tag": "span",
+      "ürün_adi": "prdct-desc-cntnr-name",
+      "fiyat": "prc-box-sllng",
+      "fiyat_tag": "div",
+      "sayfa": "",
+      "aralik": "&prc=",
+      "link": "https://www.trendyol.com/sr?q="
+    },
+    "HepsiBurada": {
+      "ürün_tag": "p",
+      "ürün_adi": "hb-pl-cn",
+      "fiyat": "price",
+      "fiyat_tag": "span",
+      "sayfa": "&sayfa=",
+	  "aralik":"&filtreler=fiyat:",
+      "link": "https://www.hepsiburada.com/ara?q="
+    },
+    "GittiGidiyor": {
+      "ürün_tag": "h3",
+      "ürün_adi": "product-title",
+      "fiyat": "fiyat",
+      "fiyat_tag": "p",
+      "sayfa": "&sf=",
+      "aralik_min": "&fmin=",
+      "aralik_max": "fmax=",
+      "link": "https://www.gittigidiyor.com/arama/?k="
+    }
+  }
+}

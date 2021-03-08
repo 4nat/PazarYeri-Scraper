@@ -1,0 +1,10 @@
+{
+  "Ayarlar": {
+    "Genel": {
+      "sayfa_sayisi": 2,
+      "ürün_dosyasi": "data.json",
+	  "fiyat_min":800,
+	  "fiyat_max":10000
+    }
+  }
+}
